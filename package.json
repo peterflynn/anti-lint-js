@@ -1,0 +1,9 @@
+{
+    "name": "pflynn.anti-lint-js",
+    "title": "Anti-Lint",
+    "homepage": "https://github.com/peterflynn/anti-lint-js",
+    "author": "Peter Flynn",
+    "version": "1.0.0",
+    "engines": { "brackets": ">=0.31" },
+    "description": "Disables Brackets' built-in JSLint checker and replaces it with a simple, plain-old JS syntax checker."
+}

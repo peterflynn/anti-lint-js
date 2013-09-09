@@ -68,6 +68,7 @@ define(function (require, exports, module) {
     }
     
     AppInit.appReady(function () {
+        // Register later than the built-in linter so we replace it
         CodeInspection.register("javascript", {
             name: "JavaScript Syntax",
             scanFile: esprimaChecker
