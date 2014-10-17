@@ -1,6 +1,7 @@
 "Anti-Lint" for JS in Brackets
 ==============================
 Disables Brackets' built-in JSLint checker and replaces it with a simple, plain-old JS syntax checker.
+The syntax checker runs any time a file is saved, and whenever you open a file or switch between files.
 
 How to Install
 ==============
